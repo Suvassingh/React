@@ -1,4 +1,4 @@
-import Inputbox from "./inputbox.jsx";
+import Inputbox from "./Inputbox.jsx";
 
 
-export  default Inputbox 
+export { Inputbox }
